@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Math
+- 🌱 I’m currently learning OOP
+- 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking for help with Conda
+- 💬 Ask me about College Math?
+- 📫 How to reach me: At the time I dont think that will happen
+- 😄 Pronouns: he
+- ⚡ Fun fact: I have so little hands
 <!--
 **ricardodcv/ricardodcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
