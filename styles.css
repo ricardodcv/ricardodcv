@@ -1,4 +1,32 @@
 /* Reset default styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    background-color: #2F4F4F;
+    padding: 10px;
+    width: 105%;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 8px;
+}
+
+nav li {
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
 body, h1, p {
     margin: 0;
     padding: 0;
@@ -9,6 +37,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     background-color: #4e99e9;
+    width: 94%;
 }
 
 /* Add styles for headings */
