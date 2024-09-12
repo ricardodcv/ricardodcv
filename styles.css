@@ -3,9 +3,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: right;
-    background-color: #2F4F4F;
+    background-color: #000000;
     padding: 10px;
-    width: 105%;
 }
 nav ul {
     list-style-type: none;
@@ -19,13 +18,13 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #f8f8f8;
     text-decoration: none;
     padding: 5px;
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #5b0470;
 }
 body, h1, p {
     margin: 0;
@@ -37,7 +36,8 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     background-color: #4e99e9;
-    width: 94%;
+    width: 100%;
+    
 }
 
 /* Add styles for headings */
@@ -45,6 +45,8 @@ h1 {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
 }
 
 /* Add styles for paragraphs */
@@ -52,6 +54,8 @@ p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
 }
 
 /* Add styles for links */
