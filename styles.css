@@ -3,7 +3,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: right;
-    background-color: #000000;
+    background-color: #21092c;
     padding: 10px;
 }
 nav ul {
@@ -24,7 +24,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #5b0470;
+    background-color: #0c22e9;
 }
 body, h1, p {
     margin: 0;
@@ -35,7 +35,7 @@ body, h1, p {
 body {
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #4e99e9;
+    background-color: #aad2ff;
     width: 100%;
     
 }
@@ -67,5 +67,29 @@ a {
 a:hover {
     text-decoration: underline;
 }
+#About_me {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+    
+}
 
-/* Reset default styles */
+#About_me img {
+    width: 350px;
+    height: 350px;
+    border-radius: 60%;
+    margin-right: 10px;
+}
+
+#About_me p {
+    width: 90%;
+    margin: 10px;
+    text-align: justify;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+
+/* Reset default styl{es */
