@@ -5,6 +5,7 @@ nav {
     align-items: right;
     background-color: #21092c;
     padding: 10px;
+    top:0;
 }
 nav ul {
     list-style-type: none;
